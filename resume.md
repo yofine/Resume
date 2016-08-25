@@ -10,46 +10,93 @@ Twitter: [yofine2js](https://twitter.com/yofine2js)
 
 Weibo: [YofineLiu](http://weibo.com/1684691562)
 
-Blog: [yofine](http://yofineliu.com)
+Blog: [Yofine](http://yofineliu.com)
 
 
 ## **RECENT PROJECTS**
 
+  - [Tuice KOL (React/Redux, Node.js, MySQL)](http://mp.weixin.qq.com/s?__biz=MjM5MjI5MDQ0NQ==&mid=2650582064&idx=1&sn=de7218d78b449e9ef3e789e707afe4d9&scene=1&srcid=0824ugWf2lu1QaqY1o51QqSG#rd)
 
-  - [Tuice KOL](http://mp.weixin.qq.com/s?__biz=MjM5MjI5MDQ0NQ==&mid=2650582064&idx=1&sn=de7218d78b449e9ef3e789e707afe4d9&scene=1&srcid=0824ugWf2lu1QaqY1o51QqSG#rd)
+  - [Tuice SMM (React/Redux, Node.js, MySQL, Elasticsearch)](https://tuice.io/product2.html)
 
-  - [Tuice SMM](https://tuice.io/product2.html)
+  - [Tuice SCRM (React/Redux, Node.js, MySQL, Elasticsearch)](https://tuice.io/product2.html)
 
-  - [Tuice SCRM](https://tuice.io/product2.html)
+  - [SocialMaster Data (Node.js, Elasticsearch)](http://data.socialmaster.com.cn/)
 
-  - [SocialMaster Data](http://data.socialmaster.com.cn/)
+  - [SocialMaster WebApp (React/Flux)](http://mp.weixin.qq.com/s?__biz=MzA5NDM2MzY4Ng==&mid=256234770&idx=1&sn=eb4a43ee905eb107583c4327486a253b#rd)
 
-  - [SocialMaster Wechat](http://mp.weixin.qq.com/s?__biz=MzA5NDM2MzY4Ng==&mid=256234770&idx=1&sn=eb4a43ee905eb107583c4327486a253b#rd)
-
-  - [SocialMaster](http://socialmaster.com.cn/)
+  - [SocialMaster (Backbone.js, Chaplin.js, Node.js, MySQL, Elasticsearch)](http://socialmaster.com.cn/)
 
 
 ## **SKILLS**
 
- - ECMAScript (ES2015)
+ - Front-End
 
- - HTML / CSS
+   - ECMAScript (ES2016, ES2015, CoffeeScript)
 
- - Frontend Framework (React - Redux, Backbone.js )
+   - HTML/CSS (Handlebars.js, Less)
 
- - Data Visualization (Echarts, Chartjs, D3)
+   - React/Redux/Flux  [redux-boilerplate](https://github.com/yofine/redux-boilerplate)
 
- - Node.js
+   - Bundler (Webpack, Grunt, Browserify)
 
- - MySQL - RethinkDB - Redis - MongoDB
+   - Performance Optimization (Gzip, CDN, Cache, Prefetching, PostCSS)
 
- - ElasticSearch
+   - Testing utilities (Enzyme, karma)
 
- - Docker
+   - Security (OAuth2, XSS, CSRF)
 
- - Webpack - Grunt - Browserify
+   - Data Visualization (Echarts, Chartjs, D3)
 
- - Git - Vim - Tmux - SSH - Nginx
+   - Design Language (Ant Design, Material Design)
+
+   - CSS Framework (Bootstrap, PureCSS)
+
+   - WebGl (Three.js)
+
+
+ - Back-End
+
+   - Node.js (Koa, Express, Restify, Horizen, Mocha)
+
+   - Python (Django)
+
+   - GraphQL
+
+   - Rust
+
+   - R
+
+ - Database
+
+   - MySQL 
+   
+   - Elasticsearch
+
+   - RethinkDB [Zhihu Column](https://zhuanlan.zhihu.com/rethinkdb)
+
+   - PostgreSQL
+
+   - Redis
+
+
+ - Tools
+
+   - Linux (CentOS, Fedora, Unbuntu)
+
+   - Docker (Dockerfile, Compose, Swarm, Shipyard)
+
+   - Git (Gitflow)
+
+   - Nginx 
+
+   - Ansible
+
+   - Tmux
+
+   - Vim
+ 
+   - Bash/Zsh
 
 ## **EXPERIENCE**
 
