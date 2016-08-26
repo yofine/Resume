@@ -1,3 +1,4 @@
+# **Yofine Liu**
 
 Phone: (86) 187-3333-0817
 
@@ -68,8 +69,8 @@ Blog: [Yofine](http://yofineliu.com)
 
  - Database
 
-   - MySQL 
-   
+   - MySQL
+
    - Elasticsearch
 
    - RethinkDB [Zhihu](https://zhuanlan.zhihu.com/rethinkdb)
@@ -87,14 +88,14 @@ Blog: [Yofine](http://yofineliu.com)
 
    - Git (Gitflow)
 
-   - Nginx 
+   - Nginx
 
    - Ansible
 
    - Tmux
 
    - Vim
- 
+
    - Bash/Zsh
 
 ## **EXPERIENCE**
