@@ -1,6 +1,5 @@
-# **Yofine Liu**
 
-Phone: +8618733330817
+Phone: (86) 187-3333-0817
 
 Email: yofineliu@gmail.com
 
@@ -15,11 +14,11 @@ Blog: [Yofine](http://yofineliu.com)
 
 ## **RECENT PROJECTS**
 
-  - [Tuice KOL (React/Redux, Node.js, MySQL)](http://mp.weixin.qq.com/s?__biz=MjM5MjI5MDQ0NQ==&mid=2650582064&idx=1&sn=de7218d78b449e9ef3e789e707afe4d9&scene=1&srcid=0824ugWf2lu1QaqY1o51QqSG#rd)
+  - [Tuice KOL (React/Redux, Node.js, MySQL, Elasticsearch)](http://mp.weixin.qq.com/s?__biz=MjM5MjI5MDQ0NQ==&mid=2650582064&idx=1&sn=de7218d78b449e9ef3e789e707afe4d9&scene=1&srcid=0824ugWf2lu1QaqY1o51QqSG#rd)
 
   - [Tuice SMM (React/Redux, Node.js, MySQL, Elasticsearch)](https://tuice.io/product2.html)
 
-  - [Tuice SCRM (React/Redux, Node.js, MySQL, Elasticsearch)](https://tuice.io/product2.html)
+  - [Tuice SCRM (React/Redux, Node.js, MySQL, Elasticsearch)](https://tuice.io/product1.html)
 
   - [SocialMaster Data (Node.js, Elasticsearch)](http://data.socialmaster.com.cn/)
 
@@ -42,7 +41,7 @@ Blog: [Yofine](http://yofineliu.com)
 
    - Performance Optimization (Gzip, CDN, Cache, Prefetching, PostCSS)
 
-   - Testing utilities (Enzyme, karma)
+   - Testing (Enzyme, Karma)
 
    - Security (OAuth2, XSS, CSRF)
 
@@ -73,7 +72,7 @@ Blog: [Yofine](http://yofineliu.com)
    
    - Elasticsearch
 
-   - RethinkDB [Zhihu Column](https://zhuanlan.zhihu.com/rethinkdb)
+   - RethinkDB [Zhihu](https://zhuanlan.zhihu.com/rethinkdb)
 
    - PostgreSQL
 
@@ -104,11 +103,9 @@ Blog: [Yofine](http://yofineliu.com)
 
 ## **EDUCATION**
 
-
  - Southwest Petroleum Institute
 
 ## **ABOUT ME**
-
 
 I'm a front-end developer that loves to work with challenging and creative projects.
 My career started in 2013 and since then I have gained experience everyday.
